@@ -1,0 +1,1 @@
+module.exports.quizController = require('./questions.controller');

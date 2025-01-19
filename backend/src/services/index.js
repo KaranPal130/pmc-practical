@@ -1,0 +1,1 @@
+module.exports.quizService = require('./quiz.services');
