@@ -70,6 +70,12 @@ const router = express.Router();
  *               category:
  *                 type: string
  *                 description: Quiz category
+ *               percentage:
+ *                 type: string
+ *                 description: Quiz percentage
+ *               timestamp:
+ *                 type: string
+ *                 description: Quiz time
  *     responses:
  *       201:
  *         description: Score saved successfully
