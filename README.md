@@ -65,7 +65,6 @@ The frontend application will be available at `http://localhost:3001`.
 
 ## Features
 
-- User authentication
 - Multiple quiz categories
 - Different difficulty levels
 - Real-time scoring
